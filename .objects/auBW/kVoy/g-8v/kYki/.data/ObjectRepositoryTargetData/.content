@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GlQ9O_OzwUmmsPjltxpc7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="59, 204, 315, 24" ElementType="Toolbar" FullSelectorArgument="&lt;sap colTooltip='Single Value' id='usr/tabsTAB_STRIP/tabpNOSV/ssubSCREEN_HEADER:SAPLALDB:3030/tblSAPLALDBSINGLE_E' tableRow='0' /&gt;" Guid="9bae48f2-339d-4c20-835f-09e46bddf03b" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for Company Code Currency Value' idx='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="720c90616f56cd31e91a312f18f766a6.png" xmlns="">0gOPO3tpRlkitmyy9cFA3vQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

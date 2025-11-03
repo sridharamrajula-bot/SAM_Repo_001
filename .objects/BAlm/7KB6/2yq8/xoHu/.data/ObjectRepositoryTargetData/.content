@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VIajwMl7UkKkTz3mRPjRew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a73072f0-9a18-4047-9b9e-53381753ab05" CvElementArea="459, 496, 100, 30" CvTextArea="488, 506, 39, 12" CvTextArgument="Next &gt;" CvType="Button" DesignTimeRectangle="459, 497, 101, 31" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;uia name='Next &amp;gt;' role='button' /&gt;" Guid="c4587994-75a0-4426-a9be-a67ff03e2b77" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGkAAAAjCAYAAACXQSQwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF7SURBVGhD7ZXBjcQgDEXpiW6oZG+0QitUsed0kA4YQiBjE7ITaaVgj/7hSbFNiOQXg1nXNQHZQJICIEkBTJL5+QVCYF5YMFgM5sC8sKAuWJYFTAKSFABJCoAkBUCSAiBJAZCkAEhSACQpQKikkJwxyVif4rBmk499/i7/ff95ZEvKWB8HNUgSImlr5C7LhVGtxTF5uws1JB+9ZZO4xzbZKr/gQt2jI7jr2gSES8rPW8OMS2FUy3FwpNnRJ3uI2eUVwVv+2KOXfEH57miSn0e+pBzzqaC1vuGbGBJXaT6LfE/jTUmV8u0si0/zs6iQ1KZi/6t7SeT4KnABbNKGe3+iHad0mp9FiSSa6yX90fAySS65duyV/F1J27qz9BkokpSp9wRt3HlSGt2dNDwuLzjdg3PRJSlTpLBa++MrVUYvj8btnhnLlYdQSYAiUtIxFR8YvfuNiJQEOJCkAEhSACQpAJIUcFsSmA/zwoLBYjAH5oUGQCaQpABIEs+aXreuKl/yaDlkAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='bosa_sdm_XL9' title='Convert Text to Columns Wizard - Step 1 of 3' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="7dc7580fde7339ebae1f5cc4da591d4e.png" xmlns="">0NuU1VoH4o0OhbA_pN9CPJg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

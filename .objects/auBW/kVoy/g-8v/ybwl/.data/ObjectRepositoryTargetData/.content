@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hWctIw9ZiU2u8oYszTB8ZA" Reference="Smvp4dokZUalexn4WP6l7Q/ybwlrGc5CEeo_8EcFZZr8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="610, 764, 109, 25" ElementType="InputBox" FullSelectorArgument="&lt;sap id='usr/ctxtS_PDATE-HIGH' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtS_PDATE-HIGH' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="331e44e2-9b4a-4224-bcab-0b129fa52878" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='G/L Account Line Item Browser (G/L View)' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="550, 764, 59, 25" ElementType="Text" FullSelectorArgument="&lt;sap id='usr/txt%_S_PDATE_%_APP_%-TO_TEXT' /&gt;" Guid="9073eb5d-0b7c-44c6-acf0-3eb61038a1e7" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8f90016f2b8ac6d47430af4e0a2f2668.png" xmlns="">0wF_5Hsj43U-WuFhoFgppLg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

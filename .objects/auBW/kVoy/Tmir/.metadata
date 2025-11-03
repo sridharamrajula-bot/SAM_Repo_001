@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Choose Layout T3",
+  "Type": "Screen",
+  "Id": "Tmir7N8i-EW6A_ehguPH8A",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/Tmir7N8i-EW6A_ehguPH8A",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-19T11:50:59.7306276Z",
+  "Updated": "2025-05-19T11:50:59.7306276Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

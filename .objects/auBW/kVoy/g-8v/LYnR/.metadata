@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Set Filter...",
+  "Type": "Element",
+  "Id": "LYnRNFdh4UO-F0AN2dg2WA",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/LYnRNFdh4UO-F0AN2dg2WA",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-23T18:15:08.3882001Z",
+  "Updated": "2025-05-23T18:15:08.3882001Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

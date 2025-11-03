@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T54yPaVnC0-okFo8tXZxSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="474, 183, 98, 32" FullSelectorArgument="&lt;sap colName='CURRVAL_10' id='shellcont/shell' /&gt;" FuzzySelectorArgument="&lt;sap colName='CURRVAL_10' id='shellcont/shell' matching:colName='fuzzy' fuzzylevel:colName='0.0' matching:id='fuzzy' fuzzylevel:id='0.0' check:text='Company Code Currency Value' /&gt;" Guid="cd8788da-8100-479e-810d-d53602ff8339" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='G/L Account Line Item Browser (G/L View)' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="28, 99, 156, 26" ElementType="InputBox" FullSelectorArgument="&lt;sap id='tbar[0]/okcd' /&gt;" Guid="fe3cc98e-b187-4b0d-8217-3c36159d08da" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a9132d3f89cc918c1a3d03c99d1af446.png" xmlns="">0VpAITNXN1ES5JQD6YlVjPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

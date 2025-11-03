@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PmrSl6j_OESDwyhj7Pu65Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="806, 229, 384, 40" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;sap colName='CURRVAL_10' id='shellcont/shell' /&gt;" Guid="61769ec7-f933-451b-8c72-32ed1c05cba5" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='G/L Account Line Item Browser (G/L View)' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b678ef5780a5107fd55ed24c3f1b263.png" xmlns="">0Mj92OTQ8JUaRM_43Cf1WNw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

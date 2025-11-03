@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="76EVR25cF0KwnkapER94zg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="361, 141, 169, 25" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr/ssub%_SUBSCREEN_FREESEL:SAPLSSEL:1105/txt%%DYN002-LOW' /&gt;" Guid="a1d6fdb0-f001-42c7-94d7-e5b8f2d8ff8a" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Determine Values for Filter Criteria' idx='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e979438adfbb370843edaad7468e78e.png" xmlns="">0Uj7-HW3QSk-PKcwdo_Ppsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

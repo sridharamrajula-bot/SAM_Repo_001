@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Select Spreadsheet Screen",
+  "Type": "Screen",
+  "Id": "lyPoaVc_6UmMGhHSfmMn0g",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/lyPoaVc_6UmMGhHSfmMn0g",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-19T12:24:13.5070905Z",
+  "Updated": "2025-05-19T12:24:13.5070905Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

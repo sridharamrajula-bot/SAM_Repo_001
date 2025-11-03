@@ -1,0 +1,12 @@
+﻿{
+  "Name": "SAP Logon 760",
+  "Type": "App",
+  "Id": "6lBfN_JeWEe2GoXvYcqzJw",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/6lBfN_JeWEe2GoXvYcqzJw",
+  "Created": "2025-06-05T21:31:07.7823531Z",
+  "Updated": "2025-06-05T21:31:07.7823531Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

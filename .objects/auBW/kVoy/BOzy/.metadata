@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SAP Easy Access",
+  "Description": "SAP Easy Access",
+  "Type": "Screen",
+  "Id": "BOzyhFGrLk6zdHoeLiwblA",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/BOzyhFGrLk6zdHoeLiwblA",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-16T07:53:19.1799358Z",
+  "Updated": "2025-05-16T07:53:19.1799358Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

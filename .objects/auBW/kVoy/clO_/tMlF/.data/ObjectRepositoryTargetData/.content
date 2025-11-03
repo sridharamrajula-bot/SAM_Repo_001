@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VMtlmfidWEqheCM69SXQlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="33624f31-a9d1-4481-b013-6e7a5db0f2a9" CvTextArea="116, 49, 137, 13" CvTextArgument="20%: Order Selection" CvType="Text" DesignTimeRectangle="0, 0, 370, 80" Guid="1a6cdab0-7a7b-4287-ba2a-d2b244f52744" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='Afx:*' title='BusyIndicator' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d4224d7a76c7f01d9cb693da513205f7.png" xmlns="">021kuqBIVUUaWzRRtHohlXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

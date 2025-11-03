@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pJXKCqoVPkm68-mfFr3hnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="10f3c90b-2cbc-4038-a561-3a3449f7a90d" CvElementArea="459, 496, 100, 29" CvTextArea="488, 506, 39, 12" CvTextArgument="Next &gt;" CvType="Button" DesignTimeRectangle="459, 497, 101, 31" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;uia name='Next &amp;gt;' role='button' /&gt;" Guid="d02ba595-0c55-4cfe-b1c8-fb9fae96f492" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGkAAAAjCAYAAACXQSQwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGpSURBVGhD7ZXbjcMgEEVpIbXQDZXsH624FVex3+nAHbDm5WUI2Xi0yuCJ7scRGsC2NMcXzLZtAVwbSFIAJCmASDJf3+AiEC+kGGwGcyBeSFE23O93MAlIUgBb0u12wyg4RtiSgDxsSa1h8D6QJGWwJSFJMiBJymBLQpJkUJCkJThjgrE+rMM1G/zaz5/lv8/Lw5Ykk6Qiacf6dbD2+ZKUJCk2Mstyy2it1mvwNgs1zfzqLUlirm2wRX7CLeUdHYt7vjYBtiS5JJWGx4YZF5bR2l4vrmn26oM9xGR5SXCcP97RS35C+u4oyTIoSlKuaSratb7hUUxTF2l+F/mbxpOSCunbuyyaZlnYksSTlOqcivxX95Ka4ytBBZCkDd/9inqctml+P+qSROd6SX80PCXJBVePvTR/VlLc9yh9BmxJc5JUKPdE27jHpFS6O2l4XD7h4R6UR2mSMkkKWat/fKHI6OW1db1nxnKvB1uSTJLA5ZN0pOIFo2c/EbYkJEkGBXcSaGFLqoYxyowRtiQgDyQp4LQkMB/ihRSDzWAOxEtbgGsCSQqApMuzhR/6ZR4wK09elwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='bosa_sdm_XL9' title='Convert Text to Columns Wizard - Step 2 of 3' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="10f3c90b-2cbc-4038-a561-3a3449f7a90d" CvElementArea="570, 495, 101, 31" CvTextArea="603, 506, 33, 12" CvTextArgument="Finish" CvType="Button" DesignTimeRectangle="571, 497, 101, 31" ElementType="Button" FuzzySelectorArgument="&lt;uia name='Finish' role='button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='Finish' /&gt;" Guid="c2a77fea-cf77-4e25-adc2-8a04a8d4b087" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGkAAAAjCAYAAACXQSQwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEkSURBVGhD7dbhFYIgFIZhdmIbl2EVFnAIR3EDNrhlSl4JrJOd4NPvx3NOyeUPb1QmhCDUNkYCwEgANpH6vqdG6C4vkcZxpMoYCQAjAWAkAIwEgJEAMBIARgLASACAI3npjJHO59a0T+amGStuyK3VBxBpPmSjWDdk5o5gpIP+cYCMdFDpAPXz5bV3Ypfbtn69Jft9p25lJ17PqP2/v63fO1Gk++FaJ8O09giRBHjOxefa3v76QCLFT/5sviXp4euQpbV0LtrbX9+JblLpkHNrOnZpRr+v64KRPpkp7anjwpEGcTb31Zl7X9fFIk2v19+29R/c3v76ACJR85Hipz6Vmz0r3iQAjASAkQAwEgBGAsBIAN5GojboLptI1CZGAsBIzQtyA+MALX8wX1w5AAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="3f86fe53b0f0296d2efe05d226567685.png" xmlns="">09DLWWa76tUqk1kSeU8F0hQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

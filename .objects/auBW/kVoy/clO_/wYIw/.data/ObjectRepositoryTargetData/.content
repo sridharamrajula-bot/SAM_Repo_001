@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0KK9QwPbGEOA9T_doHmiKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="527, 234, 155, 33" DesignTimeScaleFactor="1.25" ElementType="CheckBox" FullSelectorArgument="&lt;sap id='usr/chkDY_HIS' /&gt;" Guid="30b9293e-3195-42dc-92a1-0c23c27f2f39" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display PM orders: Selection of Orders' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="4fb461b0a26c53173988a346315e8406.png" xmlns="">0zTPZXFu_Q0-KHLKxEzM4GA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

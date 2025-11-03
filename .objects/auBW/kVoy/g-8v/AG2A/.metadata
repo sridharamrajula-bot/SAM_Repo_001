@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TextField Company Code …",
+  "Type": "Element",
+  "Id": "AG2ABG9rHEWo3YELK9DFhQ",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/AG2ABG9rHEWo3YELK9DFhQ",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-23T18:17:24.6710253Z",
+  "Updated": "2025-05-23T18:17:24.6710253Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

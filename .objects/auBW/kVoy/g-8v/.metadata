@@ -1,0 +1,16 @@
+﻿{
+  "Name": "G/L Account Line Item Browser (G/L View)",
+  "Description": "To clear field",
+  "Type": "Screen",
+  "Id": "g-8v7ffaWEOGcMwptUO-UQ",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-16T07:55:02.7111741Z",
+  "Updated": "2025-05-16T12:07:55.3032241Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

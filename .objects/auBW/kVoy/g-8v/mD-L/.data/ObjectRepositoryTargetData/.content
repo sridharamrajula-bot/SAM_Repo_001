@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uXfUq3vBgEGPl6_qEkqJnA" Reference="Smvp4dokZUalexn4WP6l7Q/mD-LzPDK0UWDLqLmGKl81w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="402, 108, 158, 32" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr/tabsTAB_STRIP/tabpNOSV' /&gt;" Guid="91b796de-bf13-44e6-89b1-f6d6aab5487b" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for G/L Account' idx='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="80ecd8045431d6f18abd26a72662ba6f.png" xmlns="">0q9ExB99bAkePYDPP6BHt8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

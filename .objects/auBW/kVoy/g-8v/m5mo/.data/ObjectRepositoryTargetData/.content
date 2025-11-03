@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4vltLitwF0C2b1pf7W8qRw" Reference="Smvp4dokZUalexn4WP6l7Q/m5moz5NBc0mqdC3-6ePLxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="629, 560, 26, 26" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='tbar[0]/btn[8]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[8]' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="83339f46-e73c-4e79-a39c-c084ae1d799d" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for Company Code Currency Value' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="595, 560, 26, 26" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" Guid="d899c21d-b20f-4819-b94e-f620f003644f" SearchSteps="Selector" />
+          <Target DesignTimeRectangle="663, 560, 26, 26" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='tbar[0]/btn[2]' /&gt;" Guid="a2c6dd9c-39c0-4ee6-8f33-8ca49a3ed959" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="7" Y="-14" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ecbf5c54e7de726f877b2cd5da83985.png" xmlns="">0TwGv1qXQ9EiI5C6lxxAoJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

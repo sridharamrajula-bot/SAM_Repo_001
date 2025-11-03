@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zVA_kdCQOkOh9bTiN_ia-Q" Reference="Smvp4dokZUalexn4WP6l7Q/csCk89tTRkuDOFWWeSlk2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="4oQDXW4ZQEi1NqLjrdojuw" DesignTimeRectangle="431, 804, 180, 33" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;sap id='usr/ctxtP_LAYOUT' /&gt;" Guid="c44e724c-45fe-4349-ab89-15eced6d2a3b" Reference="Smvp4dokZUalexn4WP6l7Q/csCk89tTRkuDOFWWeSlk2Q" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='G/L Account Line Item Browser (G/L View)' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="abf96d8f3c274d16cd4629871e73fbd4.png" xmlns="">0kbzPFTRmw0SOdaOPMVBzyw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

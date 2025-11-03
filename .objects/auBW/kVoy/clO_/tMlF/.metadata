@@ -1,0 +1,13 @@
+﻿{
+  "Name": "BusyIndicator",
+  "Type": "Element",
+  "Id": "tMlFRsQAskOQtVueUGJl7Q",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/tMlFRsQAskOQtVueUGJl7Q",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/clO_2U_2OUSg4TvWjM4pRA",
+  "Created": "2025-05-29T21:18:42.3930087Z",
+  "Updated": "2025-05-29T21:18:42.3930087Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

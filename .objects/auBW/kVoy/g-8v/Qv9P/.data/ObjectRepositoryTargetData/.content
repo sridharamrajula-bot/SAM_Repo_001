@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EhsfdKf9HkqxkdiKDrrFhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="800, 206, 39, 27" ElementType="Button" FullSelectorArgument="&lt;sap id='usr/btn%_S_RACCT_%_APP_%-VALU_PUSH' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/btn%_S_RACCT_%_APP_%-VALU_PUSH' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="50cfd1b1-4951-436d-99b3-b254b8229e4c" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='G/L Account Line Item Browser (G/L View)' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="40, 207, 320, 25" ElementType="Text" FullSelectorArgument="&lt;sap id='usr/txt%_S_RACCT_%_APP_%-TEXT' /&gt;" Guid="15594a8f-a253-464b-85ae-78ae26045787" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a79ab0a787ba6dc2a2eb56ba0e869c29.png" xmlns="">0zPSjGKguckGgn8xcyvo0DQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Order Column",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "0Gl2m2dpAket1zoWUe-Dcg",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/0Gl2m2dpAket1zoWUe-Dcg",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/YBkYnCISy066qxPVmHM7UA",
+  "Created": "2025-05-20T11:35:58.5468986Z",
+  "Updated": "2025-05-20T11:35:58.5468986Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

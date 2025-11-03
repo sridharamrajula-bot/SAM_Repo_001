@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TextField Single value",
+  "Type": "Element",
+  "Id": "kYkiOElFTE6BIM1a6IJBfw",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/kYkiOElFTE6BIM1a6IJBfw",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-23T19:23:26.331059Z",
+  "Updated": "2025-05-23T19:23:26.331059Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

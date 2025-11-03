@@ -1,0 +1,17 @@
+﻿{
+  "Name": "No suitable purchasing …(1)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "omLneG96l0-f-xFjww2z_A",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/omLneG96l0-f-xFjww2z_A",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/lkkZtDuxlUKW0kdeIjGCMw",
+  "Created": "2025-05-31T00:29:12.0694566Z",
+  "Updated": "2025-05-31T00:31:45.4542612Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

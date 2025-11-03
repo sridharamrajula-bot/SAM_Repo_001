@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Change PivotTable Data Source",
+  "Type": "Screen",
+  "Id": "-ZzX2MG7qUecCLyHWBXC1w",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/-ZzX2MG7qUecCLyHWBXC1w",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/a8HqBtLszEO3R9n_HADrRg",
+  "Created": "2025-05-21T18:41:24.689117Z",
+  "Updated": "2025-05-21T18:42:05.4236913Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

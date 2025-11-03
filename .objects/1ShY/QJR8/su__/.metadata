@@ -1,0 +1,13 @@
+﻿{
+  "Name": "GL Account Line Item Browser (GL View)",
+  "Type": "Screen",
+  "Id": "su__F7X2Uk-_Vh_g6vOE1Q",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/su__F7X2Uk-_Vh_g6vOE1Q",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/QJR8BETJY0yjHQMjPgijIQ",
+  "Created": "2025-05-23T22:09:32.0799882Z",
+  "Updated": "2025-05-23T22:09:32.0799882Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

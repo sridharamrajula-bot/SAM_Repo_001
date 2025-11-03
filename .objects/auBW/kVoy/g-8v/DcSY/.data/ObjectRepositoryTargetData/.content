@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="i5A8cMhBtkGH3kQowIF0cQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="626, 560, 26, 26" ElementType="Button" FullSelectorArgument="&lt;sap id='tbar[0]/btn[16]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[16]' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="e87c535a-e787-41d7-b447-852751caf597" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for G/L Account' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="694, 560, 131, 26" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='tbar[0]/btn[6]' /&gt;" Guid="5b6be3d6-b807-4653-b04f-c97cf046e135" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e90d318e76d1861499b975a9e75807f1.png" xmlns="">0HHNBb0lerk6m5u9PMDIbjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

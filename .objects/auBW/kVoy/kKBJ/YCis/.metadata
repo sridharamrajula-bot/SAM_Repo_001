@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Allow Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YCisixtATEGjogOWCjhvEw",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/YCisixtATEGjogOWCjhvEw",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kKBJMjUV_Emg0GAr2W3fGg",
+  "Created": "2025-05-19T12:38:37.3045625Z",
+  "Updated": "2025-05-19T12:39:06.8137474Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "bucket",
+      "key": "Selective_Ledger_Config",
+      "value": {
+        "name": {
+          "defaultValue": "Selective_Ledger_Config",
+          "isExpression": false,
+          "displayName": "Storage Bucket Name"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.1",
+        "SolutionsSupport": "true"
+      }
+    },
+    {
+      "resource": "bucket",
+      "value": {
+        "folderPath": {
+          "defaultValue": "Development/Finance/Controller/Generative_Selective_Ledger",
+          "isExpression": false,
+          "displayName": "Orchestrator folder path"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.1",
+        "SolutionsSupport": "true"
+      }
+    },
+    {
+      "resource": "queue",
+      "key": "ProductLineQueue",
+      "value": {
+        "name": {
+          "defaultValue": "ProductLineQueue",
+          "isExpression": false,
+          "displayName": "Queue name"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.1",
+        "SolutionsSupport": "true"
+      }
+    },
+    {
+      "resource": "bucket",
+      "key": "Selective_Ledger",
+      "value": {
+        "name": {
+          "defaultValue": "Selective_Ledger",
+          "isExpression": false,
+          "displayName": "Storage Bucket Name"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.1",
+        "SolutionsSupport": "true"
+      }
+    }
+  ]
+}

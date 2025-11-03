@@ -1,0 +1,13 @@
+﻿{
+  "Name": "To Posting Date…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ybwlrGc5CEeo_8EcFZZr8A",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/ybwlrGc5CEeo_8EcFZZr8A",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-16T09:45:50.8801426Z",
+  "Updated": "2025-05-16T09:45:50.8801426Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

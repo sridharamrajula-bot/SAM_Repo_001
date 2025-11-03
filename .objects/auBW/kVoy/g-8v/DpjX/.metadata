@@ -1,0 +1,13 @@
+﻿{
+  "Name": "CTextField Lower limit",
+  "Type": "Element",
+  "Id": "DpjXqQGDZUWlm3vDm4rBKQ",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/DpjXqQGDZUWlm3vDm4rBKQ",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-29T15:05:23.5262501Z",
+  "Updated": "2025-05-29T15:05:23.5262501Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

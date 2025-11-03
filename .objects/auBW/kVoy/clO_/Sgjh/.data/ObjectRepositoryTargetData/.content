@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vfAxveCAr0uzWBwB3sgwYg" Reference="Smvp4dokZUalexn4WP6l7Q/SgjhVVecKUKihzk3WsMcpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="54, 1012, 162, 16" FullSelectorArgument="&lt;sap id='sbar/pane[0]' text='No objects were selected' /&gt;" FuzzySelectorArgument="&lt;sap id='sbar/pane[0]' matching:id='fuzzy' fuzzylevel:id='0.0' check:text='No objects were selected' /&gt;" Guid="99257290-72c3-432d-bd24-6afb4f7eb6f4" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display PM orders: Selection of Orders' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="16, 1000, 1904, 40" FullSelectorArgument="&lt;sap id='sbar' /&gt;" Guid="27404ce4-448b-403e-a70b-e1d21d58d534" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb628f9f469516d12bff62045b5e45e0.png" xmlns="">0BwcmIj_yWEmY_Ihl3tor3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

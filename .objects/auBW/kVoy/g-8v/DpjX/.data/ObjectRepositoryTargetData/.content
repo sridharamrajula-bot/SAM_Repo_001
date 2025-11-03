@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wid21GEatUuxatpxx4YkCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="59, 204, 105, 24" ElementType="Toolbar" FullSelectorArgument="&lt;sap colTooltip='Lower Limit' id='usr/tabsTAB_STRIP/tabpINTL/ssubSCREEN_HEADER:SAPLALDB:3020/tblSAPLALDBINTERVAL' tableRow='0' /&gt;" FuzzySelectorArgument="&lt;sap colTooltip='Lower Limit' id='usr/tabsTAB_STRIP/tabpINTL/ssubSCREEN_HEADER:SAPLALDB:3020/tblSAPLALDBINTERVAL' matching:colTooltip='fuzzy' fuzzylevel:colTooltip='0.0' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="8f8a8b3f-7177-4864-a681-692690c9181b" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for G/L Account' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="59, 173, 105, 30" ElementType="Toolbar" FullSelectorArgument="&lt;sap colTooltip='Lower Limit' id='usr/tabsTAB_STRIP/tabpINTL/ssubSCREEN_HEADER:SAPLALDB:3020/tblSAPLALDBINTERVAL' /&gt;" Guid="70ecc36e-cf81-475f-8275-aec67137f54e" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2df3a8b792d7de7cd3a53e5753437888.png" xmlns="">01FCHw6_iiUGh15I1ylvqDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

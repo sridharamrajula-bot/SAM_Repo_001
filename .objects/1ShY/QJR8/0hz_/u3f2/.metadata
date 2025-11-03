@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Company Code Currency V…",
+  "Type": "Element",
+  "Id": "u3f27MeROEOKRFCAg4ICfg",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/u3f27MeROEOKRFCAg4ICfg",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/0hz_7CbUGE6LqMU0LpPkEg",
+  "Created": "2025-05-23T18:05:36.3247588Z",
+  "Updated": "2025-05-23T18:05:36.3247588Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

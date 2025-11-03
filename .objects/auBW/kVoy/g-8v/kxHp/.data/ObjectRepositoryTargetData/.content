@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_-aMr1WrTECzn4yNY-Xkiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="71, 77, 509, 25" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr/txtMESSTXT1' text='Output table does not contain any entries.' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/txtMESSTXT1' text='Output table does not contain any entries.' matching:id='fuzzy' fuzzylevel:id='0.0' matching:text='fuzzy' fuzzylevel:text='0.0' check:text='Output table does not contain any entries.' /&gt;" Guid="88d66918-a95e-44fa-99ef-a72f51aea546" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Information' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="17, 57, 616, 160" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr' /&gt;" Guid="9883b2aa-0159-40b4-a599-346c70c5f88f" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="912f9463d5e03d4d22e8c9bd7e07df97.png" xmlns="">0923l4L3eTk2P-1qSLBy9NA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

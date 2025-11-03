@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Company Code Currency V…",
+  "Description": "By Clicking the Company Code Currency value to filter",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "b9Q6A0c_D0exupanSniyQg",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/b9Q6A0c_D0exupanSniyQg",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/g-8v7ffaWEOGcMwptUO-UQ",
+  "Created": "2025-05-16T09:00:14.2237186Z",
+  "Updated": "2025-05-16T09:00:14.2237186Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

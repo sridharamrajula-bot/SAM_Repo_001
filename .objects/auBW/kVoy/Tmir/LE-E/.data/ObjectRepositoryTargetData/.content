@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Hz2F5XK-K0mf6PMaqxFWqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="22, 279, 117, 26" FullSelectorArgument="&lt;sap colName='VARIANT' id='usr/subSUB_CONFIGURATION:SAPLSALV_CUL_LAYOUT_CHOOSE:0500/cntlD500_CONTAINER/shellcont/shell' tableRow='12' /&gt;" FuzzySelectorArgument="&lt;sap colName='VARIANT' id='usr/subSUB_CONFIGURATION:SAPLSALV_CUL_LAYOUT_CHOOSE:0500/cntlD500_CONTAINER/shellcont/shell' matching:colName='fuzzy' fuzzylevel:colName='0.0' matching:id='fuzzy' fuzzylevel:id='0.0' check:text='/PO_DTL_BOT' /&gt;" Guid="14a3db79-6237-4159-acdf-7665e36c5f7c" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Choose Layout' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="139, 279, 369, 26" ElementType="Toolbar" FullSelectorArgument="&lt;sap colName='TEXT' id='usr/subSUB_CONFIGURATION:SAPLSALV_CUL_LAYOUT_CHOOSE:0500/cntlD500_CONTAINER/shellcont/shell' tableRow='12' /&gt;" Guid="a5c1e151-2e55-499f-8f19-0dd61ff12f97" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4d100fdf85d87661cea1786f604211ca.png" xmlns="">0bMrky-zmXUSIZmtAE867yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

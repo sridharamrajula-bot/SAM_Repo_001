@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Multiple Selection for Purchasing document",
+  "Description": "Multiple Selection for Purchasing document",
+  "Type": "Screen",
+  "Id": "fOBVOkwNPUuKnSGs2A1kIg",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/fOBVOkwNPUuKnSGs2A1kIg",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-19T10:49:23.93908Z",
+  "Updated": "2025-05-19T10:53:34.6382231Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

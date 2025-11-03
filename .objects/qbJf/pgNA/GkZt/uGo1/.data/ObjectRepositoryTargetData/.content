@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GYwo4F_0M062ENipq_uRcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="21, 158, 87, 31" FullSelectorArgument="&lt;sap colName='EBELN' id='usr/cntlGRID1/shellcont/shell' /&gt;" Guid="f31d1abd-79c5-4e9f-b2a9-7f4b47d66562" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Purchasing Documents by Document Number' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e9a507880d72bc33b1010fe04ccf0e8b.png" xmlns="">0pZYzuxTtF0u7H1AggZhTdw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

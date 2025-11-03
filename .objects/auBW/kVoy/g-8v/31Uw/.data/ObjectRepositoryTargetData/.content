@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="prIf9JMRX02y_lzrNRPLiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="338, 108, 158, 32" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr/tabsTAB_STRIP/tabpNOSV' /&gt;" Guid="169df55e-c37f-4848-a780-a34e7d905d9f" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Multiple Selection for Company Code Currency Value' idx='*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e36cf2a22592f905190448a76c35f4b9.png" xmlns="">0uwZCqpeh_UOCFtjSbbLhWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

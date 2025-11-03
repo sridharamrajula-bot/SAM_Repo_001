@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mJXLUofQ1k-b---xEkDPJA" Reference="Smvp4dokZUalexn4WP6l7Q/a0osvE4V9064xnsbuwFboQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4d62b2a0-bf43-4e51-a500-9aad5b06dae9" ContentHash="oaA2J75rakm5vDwFWTbDSw" CvElementArea="165, 246, 124, 40" CvTextArea="205, 257, 42, 20" CvTextArgument="Deny" CvType="Button" DesignTimeRectangle="167, 248, 120, 38" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1002' title='&amp;amp;Deny' /&gt;" Guid="2eb5a827-38f3-42b6-b53e-edec90ac16ed" Reference="Smvp4dokZUalexn4WP6l7Q/a0osvE4V9064xnsbuwFboQ" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='SAP GUI Security' idx='*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="4d62b2a0-bf43-4e51-a500-9aad5b06dae9" CvElementArea="31, 245, 124, 41" CvTextArea="68, 256, 47, 16" CvTextArgument="Allow" CvType="Button" DesignTimeRectangle="33, 248, 120, 38" ElementType="Button" FullSelectorArgument="&lt;wnd aaname='Allow' cls='Button' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Allow' cls='Button' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='unchecked' /&gt;" Guid="5fca35db-b705-4da4-99e1-80bda84a9abf" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb27f92a03b0d5665785b8b4a2423fb6.png" xmlns="">0RPP72H-i-kWuG_MLOZRPdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

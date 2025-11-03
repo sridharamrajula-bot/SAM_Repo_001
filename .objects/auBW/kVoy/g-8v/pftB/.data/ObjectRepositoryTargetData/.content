@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I28sfd5Cb0qlRH24GVBd_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="353, 369, 315, 24" ElementType="Toolbar" FullSelectorArgument="&lt;sap id='usr/tblSAPLSE16NMULTI_OR_TC' tableCol='2' tableRow='8' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/tblSAPLSE16NMULTI_OR_TC' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="67371492-3aa2-40ec-b83a-b52d63beda8a" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Dynamic Selections' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="21, 369, 305, 24" ElementType="Toolbar" FullSelectorArgument="&lt;sap colTooltip='Long field label' id='usr/tblSAPLSE16NMULTI_OR_TC' tableRow='8' /&gt;" Guid="2911d10a-f0fa-4f9f-aa0e-df3d875af192" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="174ef4af2a88a22a12fe25b70cd07adf.png" xmlns="">05XlcDNJ8j0Wue5g6k2DIbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

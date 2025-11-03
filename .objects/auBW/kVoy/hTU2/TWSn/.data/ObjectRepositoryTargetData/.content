@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UYjghE5jkEe7u-KStmSO-g" Reference="Smvp4dokZUalexn4WP6l7Q/TWSnc4O6N0m2220G83FDMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="434, 96, 179, 33" ElementType="InputBox" FullSelectorArgument="&lt;sap id='usr/txtV-LOW' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/txtV-LOW' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;" Guid="273fed7f-32ca-4dd6-a037-807ef4bcf5dd" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Find Variant' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="26, 96, 408, 33" ElementType="Text" FullSelectorArgument="&lt;sap id='usr/txt%_V_%_APP_%-TEXT' /&gt;" Guid="02ae0ae5-353b-4414-9137-607c758b8609" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1609be467b5a6370955c8ce37d940af1.png" xmlns="">0Eat1g6nlOkazPi1vIw5ZPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

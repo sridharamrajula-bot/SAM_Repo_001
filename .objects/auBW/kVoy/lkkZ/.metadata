@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Purchasing Documents per Document Number",
+  "Description": "Purchasing Documents per Document Number",
+  "Type": "Screen",
+  "Id": "lkkZtDuxlUKW0kdeIjGCMw",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/lkkZtDuxlUKW0kdeIjGCMw",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/kVoyzEP4iEiiifSN5IDxfA",
+  "Created": "2025-05-19T10:39:59.1074703Z",
+  "Updated": "2025-05-19T12:28:24.9748043Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

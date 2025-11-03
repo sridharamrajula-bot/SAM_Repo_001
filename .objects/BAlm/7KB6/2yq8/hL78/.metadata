@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Text to Columns...",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "hL78TTthNE-_0DFmV81VCg",
+  "Reference": "Smvp4dokZUalexn4WP6l7Q/hL78TTthNE-_0DFmV81VCg",
+  "ParentRef": "Smvp4dokZUalexn4WP6l7Q/2yq8GmXK9kunAmPc469-Sw",
+  "Created": "2025-05-20T11:35:58.4917591Z",
+  "Updated": "2025-05-20T11:35:58.4917591Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

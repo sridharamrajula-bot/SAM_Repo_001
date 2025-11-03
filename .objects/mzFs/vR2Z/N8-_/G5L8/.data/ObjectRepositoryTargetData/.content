@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K30AXy5aK0uMhHdOcLO6rg" Reference="Smvp4dokZUalexn4WP6l7Q/G5L8Bu_tE0ywQYXC0QWJcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="0, 0, 830, 413" Guid="8a10073f-2a0b-43bc-a2d2-0abf5e9ab092" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#*' title='SAP' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="23cac806-8e18-4197-9f1a-e971ae2b707b" DesignTimeRectangle="266, 335, 179, 35" ElementType="Button" FullSelectorArgument="&lt;sap id='usr/btnBUTTON_2' text=' Always' /&gt;" Guid="6767039d-594d-4900-a324-186f0330ce0b" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4db11340f88944c427720055c7424da0.png" xmlns="">0eCjf-6L4DUypb2ZQ5Hx9xA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
